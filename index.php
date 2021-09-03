@@ -65,9 +65,7 @@ if (isset($_POST['submit'])) {
 
 
 
-// // fetch the resulting rows as an array
 
-// $pizzas = mysqli_fetch_all($result, MYSQLI_ASSOC);
 
 
 
